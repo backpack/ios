@@ -3,6 +3,8 @@
     <meta http-equiv="refresh" content="1;url=/ios/versions/latest" />
     <script type="text/javascript">
       const iosDocsPath = (window.location + '').split('ios/versions/latest');
-      window.location = `/ios/versions/0.11.13${iosDocsPath[1]}`;
+      if (iosDocsPath.length > 1) {
+        window.location = `/ios/versions/0.11.14${iosDocsPath[1]}`;
+      }
     </script>
   </html>
