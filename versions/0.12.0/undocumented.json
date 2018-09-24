@@ -1,0 +1,159 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Badge/Classes/BPKBadge.h",
+      "line": 58,
+      "symbol": "BPKBadge",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Color/Classes/Generated/BPKColor.h",
+      "line": 502,
+      "symbol": "BPKColor.+clear",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Font/Classes/Generated/BPKFont.h",
+      "line": 20,
+      "symbol": "BPKFontStyle",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Font/Classes/Generated/BPKFont.h",
+      "line": 20,
+      "symbol": "BPKFontStyle",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Font/Classes/Generated/BPKFont.h",
+      "line": 41,
+      "symbol": "BPKFont.+fontWithStyle:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Gradient/Classes/BPKGradient.h",
+      "line": 112,
+      "symbol": "BPKGradient.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Gradient/Classes/BPKGradient.h",
+      "line": 113,
+      "symbol": "BPKGradient.+new",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Gradient/Classes/BPKGradient.h",
+      "line": 160,
+      "symbol": "BPKGradient.+startPointForDirection:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Gradient/Classes/BPKGradient.h",
+      "line": 161,
+      "symbol": "BPKGradient.+endPointForDirection:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Gradient/Classes/BPKGradientView.h",
+      "line": 39,
+      "symbol": "BPKGradientView.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Gradient/Classes/BPKGradientView.h",
+      "line": 40,
+      "symbol": "BPKGradientView.+new",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/BPKIcon.h",
+      "line": 21,
+      "symbol": "BPKIconSize",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/BPKIcon.h",
+      "line": 21,
+      "symbol": "BPKIconSize",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/BPKIcon.h",
+      "line": 36,
+      "symbol": "BPKIcon.iconMapping",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Label/Classes/BPKLabel.h",
+      "line": 35,
+      "symbol": "BPKLabel.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Label/Classes/BPKLabel.h",
+      "line": 36,
+      "symbol": "BPKLabel.-initWithFrame:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 35,
+      "symbol": "BPKPanel.-initWithPadded:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 36,
+      "symbol": "BPKPanel.-initWithFrame:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 37,
+      "symbol": "BPKPanel.-new",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 38,
+      "symbol": "BPKPanel.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Shadow/Classes/Generated/BPKShadow.h",
+      "line": 49,
+      "symbol": "BPKShadow.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Shadow/Classes/Generated/BPKShadow.h",
+      "line": 50,
+      "symbol": "BPKShadow.+new",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/travis/build/Skyscanner/backpack-ios"
+}
