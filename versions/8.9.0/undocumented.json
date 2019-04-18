@@ -93,28 +93,35 @@
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Button/Classes/BPKButton.h",
-      "line": 69,
+      "line": 68,
+      "symbol": "BPKButton.linkContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Button/Classes/BPKButton.h",
+      "line": 70,
       "symbol": "BPKButton.-setTitle:forState:",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Button/Classes/BPKButton.h",
-      "line": 71,
+      "line": 72,
       "symbol": "BPKButton.-setImage:forState:",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Button/Classes/BPKButton.h",
-      "line": 74,
+      "line": 75,
       "symbol": "BPKButton.title",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Button/Classes/BPKButton.h",
-      "line": 75,
+      "line": 76,
       "symbol": "BPKButton.-setImage:",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
       "warning": "undocumented"
@@ -1977,34 +1984,41 @@
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
       "line": 31,
-      "symbol": "BPKThemeDefinition.buttonPrimaryContentColor",
+      "symbol": "BPKThemeDefinition.buttonLinkContentColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
       "line": 32,
-      "symbol": "BPKThemeDefinition.buttonPrimaryGradientStartColor",
+      "symbol": "BPKThemeDefinition.buttonPrimaryContentColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
       "line": 33,
-      "symbol": "BPKThemeDefinition.buttonPrimaryGradientEndColor",
+      "symbol": "BPKThemeDefinition.buttonPrimaryGradientStartColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
       "line": 34,
-      "symbol": "BPKThemeDefinition.primaryColor",
+      "symbol": "BPKThemeDefinition.buttonPrimaryGradientEndColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
       "line": 35,
+      "symbol": "BPKThemeDefinition.primaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 36,
       "symbol": "BPKThemeDefinition.themeContainerClass",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
