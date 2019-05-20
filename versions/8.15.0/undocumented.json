@@ -2165,28 +2165,70 @@
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 48,
+      "symbol": "BPKThemeDefinition.gray50",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 49,
+      "symbol": "BPKThemeDefinition.gray100",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 50,
+      "symbol": "BPKThemeDefinition.gray300",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 51,
+      "symbol": "BPKThemeDefinition.gray500",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 52,
+      "symbol": "BPKThemeDefinition.gray700",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
       "line": 53,
+      "symbol": "BPKThemeDefinition.gray900",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 60,
       "symbol": "BPKThemeDefinition.primaryColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
-      "line": 54,
+      "line": 61,
       "symbol": "BPKThemeDefinition.primaryGradient",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
-      "line": 56,
+      "line": 63,
       "symbol": "BPKThemeDefinition.calendarDateSelectedContentColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
-      "line": 57,
+      "line": 64,
       "symbol": "BPKThemeDefinition.calendarDateSelectedBackgroundColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
