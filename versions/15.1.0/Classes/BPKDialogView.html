@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>BPKDialogController Class Reference</title>
+    <title>BPKDialogView Class Reference</title>
     <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
     <meta charset='utf-8'>
@@ -10,8 +10,8 @@
     
   </head>
   <body>
-    <a name="//apple_ref/objc/Class/BPKDialogController" class="dashAnchor"></a>
-    <a title="BPKDialogController Class Reference"></a>
+    <a name="//apple_ref/objc/Class/BPKDialogView" class="dashAnchor"></a>
+    <a title="BPKDialogView Class Reference"></a>
     <header>
       <div class="content-wrapper">
         <p><a href="../index.html">Backpack Docs</a> (46% documented)</p>
@@ -21,7 +21,7 @@
       <p id="breadcrumbs">
         <a href="../index.html">Backpack Reference</a>
         <img id="carat" src="../img/carat.png" />
-        BPKDialogController Class Reference
+        BPKDialogView Class Reference
       </p>
     </div>
     <div class="content-wrapper">
@@ -235,24 +235,20 @@
       <article class="main-content">
         <section>
           <section class="section">
-            <h1>BPKDialogController</h1>
+            <h1>BPKDialogView</h1>
               <div class="declaration">
                 <div class="language">
-                  <pre class="highlight objective_c"><code>
-<span class="k">@interface</span> <span class="nc">BPKDialogController</span>
-    <span class="p">:</span> <span class="nc">UIViewController</span> <span class="o">&lt;</span><span class="n">BPKDialogViewDelegate</span><span class="p">,</span>
-                        <span class="n">UIViewControllerTransitioningDelegate</span><span class="o">&gt;</span></code></pre>
+                  <pre class="highlight objective_c"><code><span class="k">@interface</span> <span class="nc">BPKDialogView</span> <span class="p">:</span> <span class="nc">UIView</span> <span class="o">&lt;</span><span class="n">UIGestureRecognizerDelegate</span><span class="o">&gt;</span></code></pre>
 
                 </div>
               </div>
-            <p>A <code>UIViewController</code> subclass encapsulating the Backpack dialog component.
- The controller is preconfigured to use itself as the <code>transitioningDelegate</code>
- consumers should not change this as it breaks the custom transition support.
- The dialog always contains a title and message as-well as zero or more action buttons.
- The scrim display behind the content view can be configured to dismiss the view controller
- where appropriate.</p>
+            <p>A <code>UIView</code> subclass that renders the Backpack Dialog. Used by
+ <code><a href="../Classes/BPKDialogController.html">BPKDialogController</a></code>, but can also be used directly in rare cases.</p>
+<div class="aside aside-see">
+    <p class="aside-title">See</p>
+    BPKDialogController
 
-<p>The controller is exclusively intended to be used with <code>presentViewController:</code>.</p>
+</div>
 
           </section>
           <section class="section task-group-section">
@@ -261,9 +257,41 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/c:objc(cs)BPKDialogController(py)style"></a>
+                    <a name="/c:objc(cs)BPKDialogView(py)delegate"></a>
+                    <a name="//apple_ref/objc/Property/delegate" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(py)delegate">delegate</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The delegate of the view.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">@property</span> <span class="p">(</span><span class="n">readwrite</span><span class="p">,</span> <span class="n">nonatomic</span><span class="p">)</span> <span class="n">id</span><span class="o">&lt;</span><span class="n">BPKDialogViewDelegate</span><span class="o">&gt;</span> <span class="n">_Nullable</span> <span class="n">delegate</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">weak</span> <span class="k">var</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt">BPKDialogViewDelegate</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:objc(cs)BPKDialogView(py)style"></a>
                     <a name="//apple_ref/objc/Property/style" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(py)style">style</a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(py)style">style</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -293,9 +321,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/c:objc(cs)BPKDialogController(im)addButtonAction:"></a>
-                    <a name="//apple_ref/objc/Method/-addButtonAction:" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(im)addButtonAction:">-addButtonAction:</a>
+                    <a name="/c:objc(cs)BPKDialogView(py)iconDefinition"></a>
+                    <a name="//apple_ref/objc/Property/iconDefinition" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(py)iconDefinition">iconDefinition</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -303,9 +331,185 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Add a button action to the dialog. For both styles
- the buttons actions are display in the order they are
- added after the title and message.</p>
+                        <p>The background color of the icon view at the top</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">@property</span> <span class="p">(</span><span class="n">readwrite</span><span class="p">,</span> <span class="n">strong</span><span class="p">,</span> <span class="n">nonatomic</span><span class="p">,</span> <span class="n">nullable</span><span class="p">)</span>
+    <span class="n"><a href="../Classes/BPKDialogIconDefinition.html">BPKDialogIconDefinition</a></span> <span class="o">*</span><span class="n">iconDefinition</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">iconDefinition</span><span class="p">:</span> <span class="kt"><a href="../Classes/BPKDialogIconDefinition.html">BPKDialogIconDefinition</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:objc(cs)BPKDialogView(py)title"></a>
+                    <a name="//apple_ref/objc/Property/title" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(py)title">title</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The title to display in the view.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">@property</span> <span class="p">(</span><span class="n">readwrite</span><span class="p">,</span> <span class="n">copy</span><span class="p">,</span> <span class="n">nonatomic</span><span class="p">,</span> <span class="n">nullable</span><span class="p">)</span> <span class="n">NSString</span> <span class="o">*</span><span class="n">title</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">title</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:objc(cs)BPKDialogView(py)message"></a>
+                    <a name="//apple_ref/objc/Property/message" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(py)message">message</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The description to display in the view.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">@property</span> <span class="p">(</span><span class="n">readwrite</span><span class="p">,</span> <span class="n">copy</span><span class="p">,</span> <span class="n">nonatomic</span><span class="p">,</span> <span class="n">nullable</span><span class="p">)</span> <span class="n">NSString</span> <span class="o">*</span><span class="n">message</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">message</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:objc(cs)BPKDialogView(im)initWithTitle:message:iconDefinition:"></a>
+                    <a name="//apple_ref/objc/Method/-initWithTitle:message:iconDefinition:" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(im)initWithTitle:message:iconDefinition:">-initWithTitle:message:iconDefinition:</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Create an instance of <code>BPKDialogView</code>.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">-</span> <span class="p">(</span><span class="n">nonnull</span> <span class="n">instancetype</span><span class="p">)</span><span class="nf">initWithTitle</span><span class="p">:(</span><span class="n">NSString</span> <span class="o">*</span><span class="n">_Nullable</span><span class="p">)</span><span class="nv">title</span>
+                              <span class="nf">message</span><span class="p">:(</span><span class="n">nonnull</span> <span class="n">NSString</span> <span class="o">*</span><span class="p">)</span><span class="nv">message</span>
+                       <span class="nf">iconDefinition</span><span class="p">:</span>
+                           <span class="p">(</span><span class="n"><a href="../Classes/BPKDialogIconDefinition.html">BPKDialogIconDefinition</a></span> <span class="o">*</span><span class="n">_Nullable</span><span class="p">)</span><span class="nv">iconDefinition</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">title</span><span class="p">:</span> <span class="kt">String</span><span class="p">?,</span> <span class="nv">message</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">iconDefinition</span><span class="p">:</span> <span class="kt"><a href="../Classes/BPKDialogIconDefinition.html">BPKDialogIconDefinition</a></span><span class="p">?)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>title</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>The title to use.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>message</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>The message to use.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>iconDefinition</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>the icon to show at the top of the dialog.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:objc(cs)BPKDialogView(im)addButtonAction:"></a>
+                    <a name="//apple_ref/objc/Method/-addButtonAction:" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKDialogView(im)addButtonAction:">-addButtonAction:</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Add a single button action to the view. Buttons actions
+ are rendered below the description and are layed out
+ in the order they are added. The delegate is notified
+ when an action is invoked.</p>
 
                       </div>
                       <div class="declaration">
@@ -333,243 +537,12 @@
                               </td>
                               <td>
                                 <div>
-                                  <p>The action to add</p>
+                                  <p>The action to add.</p>
                                 </div>
                               </td>
                             </tr>
                           </tbody>
                         </table>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/c:objc(cs)BPKDialogController(py)scrimAction"></a>
-                    <a name="//apple_ref/objc/Property/scrimAction" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(py)scrimAction">scrimAction</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>The scrim tap action for the dailog. This action is invoked
- whenever the scrim is tapped, if <code>shouldDismiss</code> is <code>YES</code>/<code>true</code>
- the controller is immediately dismissed after calling the handler.</p>
-<div class="aside aside-see">
-    <p class="aside-title">See</p>
-    BPKDialogScrimAction
-
-</div>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Objective-C</p>
-                          <pre class="highlight objective_c"><code><span class="k">@property</span> <span class="p">(</span><span class="n">readwrite</span><span class="p">,</span> <span class="n">strong</span><span class="p">,</span> <span class="n">nonatomic</span><span class="p">,</span> <span class="n">nullable</span><span class="p">)</span>
-    <span class="n"><a href="../Classes/BPKDialogScrimAction.html">BPKDialogScrimAction</a></span> <span class="o">*</span><span class="n">scrimAction</span><span class="p">;</span></code></pre>
-
-                        </div>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">scrimAction</span><span class="p">:</span> <span class="kt"><a href="../Classes/BPKDialogScrimAction.html">BPKDialogScrimAction</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
-
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/c:objc(cs)BPKDialogController(cm)dialogControllerWithTitle:message:style:iconDefinition:"></a>
-                    <a name="//apple_ref/objc/Method/+dialogControllerWithTitle:message:style:iconDefinition:" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(cm)dialogControllerWithTitle:message:style:iconDefinition:">+dialogControllerWithTitle:message:style:iconDefinition:</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>Create an instance of the controller.</p>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Objective-C</p>
-                          <pre class="highlight objective_c"><code><span class="k">+</span> <span class="p">(</span><span class="n">nonnull</span> <span class="n">instancetype</span><span class="p">)</span>
-<span class="nf">dialogControllerWithTitle</span><span class="p">:(</span><span class="n">nonnull</span> <span class="n">NSString</span> <span class="o">*</span><span class="p">)</span><span class="nv">title</span>
-                  <span class="nf">message</span><span class="p">:(</span><span class="n">nonnull</span> <span class="n">NSString</span> <span class="o">*</span><span class="p">)</span><span class="nv">message</span>
-                    <span class="nf">style</span><span class="p">:(</span><span class="n"><a href="../Enums/BPKDialogControllerStyle.html">BPKDialogControllerStyle</a></span><span class="p">)</span><span class="nv">style</span>
-           <span class="nf">iconDefinition</span><span class="p">:(</span><span class="n"><a href="../Classes/BPKDialogIconDefinition.html">BPKDialogIconDefinition</a></span> <span class="o">*</span><span class="n">_Nullable</span><span class="p">)</span><span class="nv">iconDefinition</span><span class="p">;</span></code></pre>
-
-                        </div>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">title</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">message</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="../Enums/BPKDialogControllerStyle.html">BPKDialogControllerStyle</a></span><span class="p">,</span> <span class="nv">iconDefinition</span><span class="p">:</span> <span class="kt"><a href="../Classes/BPKDialogIconDefinition.html">BPKDialogIconDefinition</a></span><span class="p">?)</span></code></pre>
-
-                        </div>
-                      </div>
-                      <div>
-                        <h4>Parameters</h4>
-                        <table class="graybox">
-                          <tbody>
-                            <tr>
-                              <td>
-                                <code>
-                                <em>title</em>
-                                </code>
-                              </td>
-                              <td>
-                                <div>
-                                  <p>The tile to display in the dialog.</p>
-                                </div>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>
-                                <code>
-                                <em>message</em>
-                                </code>
-                              </td>
-                              <td>
-                                <div>
-                                  <p>The message to display in the body of the dialog.</p>
-                                </div>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>
-                                <code>
-                                <em>style</em>
-                                </code>
-                              </td>
-                              <td>
-                                <div>
-                                  <p>The style of the dialog.</p>
-                                </div>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>
-                                <code>
-                                <em>iconDefinition</em>
-                                </code>
-                              </td>
-                              <td>
-                                <div>
-                                  <p>the icon specification to show at the top of the dialog.</p>
-                                </div>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/c:objc(cs)BPKDialogController(im)_setScrimAlpha:"></a>
-                    <a name="//apple_ref/objc/Method/-_setScrimAlpha:" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(im)_setScrimAlpha:">-_setScrimAlpha:</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>Used internally for animation, not intended for public use.</p>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Objective-C</p>
-                          <pre class="highlight objective_c"><code><span class="k">-</span> <span class="p">(</span><span class="kt">void</span><span class="p">)</span><span class="nf">_setScrimAlpha</span><span class="p">:(</span><span class="kt">double</span><span class="p">)</span><span class="nv">scrimAlpha</span><span class="p">;</span></code></pre>
-
-                        </div>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">_setScrimAlpha</span><span class="p">(</span><span class="n">_</span> <span class="nv">scrimAlpha</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
-
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/c:objc(cs)BPKDialogController(im)_addPresentingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:"></a>
-                    <a name="//apple_ref/objc/Method/-_addPresentingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(im)_addPresentingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:">-_addPresentingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>Used internally for animation, not intended for public use.</p>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Objective-C</p>
-                          <pre class="highlight objective_c"><code><span class="k">-</span> <span class="p">(</span><span class="kt">void</span><span class="p">)</span>
-<span class="nf">_addPresentingKeyFrameContentAnimationWithRelativeStartTime</span><span class="p">:(</span><span class="kt">double</span><span class="p">)</span><span class="nv">startTime</span>
-                                           <span class="nf">relativeDuration</span><span class="p">:(</span><span class="kt">double</span><span class="p">)</span><span class="nv">duration</span><span class="p">;</span></code></pre>
-
-                        </div>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">_addPresentingKeyFrameContentAnimation</span><span class="p">(</span><span class="n">withRelativeStartTime</span> <span class="nv">startTime</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="n">relativeDuration</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
-
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/c:objc(cs)BPKDialogController(im)_addDismissingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:"></a>
-                    <a name="//apple_ref/objc/Method/-_addDismissingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:" class="dashAnchor"></a>
-                    <a class="token" href="#/c:objc(cs)BPKDialogController(im)_addDismissingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:">-_addDismissingKeyFrameContentAnimationWithRelativeStartTime:relativeDuration:</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>Used internally for animation, not intended for public use.</p>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Objective-C</p>
-                          <pre class="highlight objective_c"><code><span class="k">-</span> <span class="p">(</span><span class="kt">void</span><span class="p">)</span>
-<span class="nf">_addDismissingKeyFrameContentAnimationWithRelativeStartTime</span><span class="p">:(</span><span class="kt">double</span><span class="p">)</span><span class="nv">startTime</span>
-                                           <span class="nf">relativeDuration</span><span class="p">:(</span><span class="kt">double</span><span class="p">)</span><span class="nv">duration</span><span class="p">;</span></code></pre>
-
-                        </div>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">_addDismissingKeyFrameContentAnimation</span><span class="p">(</span><span class="n">withRelativeStartTime</span> <span class="nv">startTime</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="n">relativeDuration</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
-
-                        </div>
                       </div>
                     </section>
                   </div>
