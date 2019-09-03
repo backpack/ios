@@ -1774,265 +1774,272 @@
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 200,
-      "symbol": "BPKIconNameSocialLike",
+      "symbol": "BPKIconNameSingleBooking",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 201,
-      "symbol": "BPKIconNameSort",
+      "symbol": "BPKIconNameSocialLike",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 202,
-      "symbol": "BPKIconNameSpeaker",
+      "symbol": "BPKIconNameSort",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 203,
-      "symbol": "BPKIconNameStarHalf",
+      "symbol": "BPKIconNameSpeaker",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 204,
-      "symbol": "BPKIconNameStarOutline",
+      "symbol": "BPKIconNameStarHalf",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 205,
-      "symbol": "BPKIconNameStar",
+      "symbol": "BPKIconNameStarOutline",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 206,
-      "symbol": "BPKIconNameStops",
+      "symbol": "BPKIconNameStar",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 207,
-      "symbol": "BPKIconNameSwapHorizontal",
+      "symbol": "BPKIconNameStops",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 208,
-      "symbol": "BPKIconNameSwapVertical",
+      "symbol": "BPKIconNameSwapHorizontal",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 209,
-      "symbol": "BPKIconNameTaxi",
+      "symbol": "BPKIconNameSwapVertical",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 210,
-      "symbol": "BPKIconNameThumbsDown",
+      "symbol": "BPKIconNameTaxi",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 211,
-      "symbol": "BPKIconNameThumbsUp",
+      "symbol": "BPKIconNameThumbsDown",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 212,
-      "symbol": "BPKIconNameTickCircle",
+      "symbol": "BPKIconNameThumbsUp",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 213,
-      "symbol": "BPKIconNameTick",
+      "symbol": "BPKIconNameTickCircle",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 214,
-      "symbol": "BPKIconNameTicket",
+      "symbol": "BPKIconNameTick",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 215,
-      "symbol": "BPKIconNameTime",
+      "symbol": "BPKIconNameTicket",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 216,
-      "symbol": "BPKIconNameToilets",
+      "symbol": "BPKIconNameTime",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 217,
-      "symbol": "BPKIconNameTrain",
+      "symbol": "BPKIconNameToilets",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 218,
-      "symbol": "BPKIconNameTransmissionAutomatic",
+      "symbol": "BPKIconNameTrain",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 219,
-      "symbol": "BPKIconNameTransmissionManual",
+      "symbol": "BPKIconNameTransmissionAutomatic",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 220,
-      "symbol": "BPKIconNameTrash",
+      "symbol": "BPKIconNameTransmissionManual",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 221,
-      "symbol": "BPKIconNameTrendDown",
+      "symbol": "BPKIconNameTrash",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 222,
-      "symbol": "BPKIconNameTrendSteady",
+      "symbol": "BPKIconNameTrendDown",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 223,
-      "symbol": "BPKIconNameTrendWillRise",
+      "symbol": "BPKIconNameTrendSteady",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 224,
-      "symbol": "BPKIconNameTrend",
+      "symbol": "BPKIconNameTrendWillRise",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 225,
-      "symbol": "BPKIconNameTrips",
+      "symbol": "BPKIconNameTrend",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 226,
-      "symbol": "BPKIconNameUnlock",
+      "symbol": "BPKIconNameTrips",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 227,
-      "symbol": "BPKIconNameUnmute",
+      "symbol": "BPKIconNameUnlock",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 228,
-      "symbol": "BPKIconNameUpgrade",
+      "symbol": "BPKIconNameUnmute",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 229,
-      "symbol": "BPKIconNameUseLocation",
+      "symbol": "BPKIconNameUpgrade",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 230,
-      "symbol": "BPKIconNameView",
+      "symbol": "BPKIconNameUseLocation",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 231,
-      "symbol": "BPKIconNameWeather",
+      "symbol": "BPKIconNameView",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 232,
-      "symbol": "BPKIconNameWifi",
+      "symbol": "BPKIconNameWeather",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 233,
-      "symbol": "BPKIconNameWindowReduce",
+      "symbol": "BPKIconNameWifi",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 234,
-      "symbol": "BPKIconNameWindow",
+      "symbol": "BPKIconNameWindowReduce",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 235,
-      "symbol": "BPKIconNameWorldAmer",
+      "symbol": "BPKIconNameWindow",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 236,
-      "symbol": "BPKIconNameWorldApac",
+      "symbol": "BPKIconNameWorldAmer",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
       "line": 237,
+      "symbol": "BPKIconNameWorldApac",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Icon/Classes/Generated/BPKIconNames.h",
+      "line": 238,
       "symbol": "BPKIconNameWorldEmea",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
       "warning": "undocumented"
