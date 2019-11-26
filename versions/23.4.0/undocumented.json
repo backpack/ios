@@ -107,42 +107,42 @@
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Calendar/Classes/BPKCalendar.h",
-      "line": 59,
+      "line": 66,
       "symbol": "BPKCalendar.fontMapping",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Calendar/Classes/BPKCalendar.h",
-      "line": 60,
+      "line": 67,
       "symbol": "BPKCalendar.dateSelectedContentColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Calendar/Classes/BPKCalendar.h",
-      "line": 61,
+      "line": 68,
       "symbol": "BPKCalendar.dateSelectedBackgroundColor",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Calendar/Classes/BPKCalendar.h",
-      "line": 72,
+      "line": 79,
       "symbol": "BPKCalendar.-initWithFrame:",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Calendar/Classes/BPKCalendar.h",
-      "line": 73,
+      "line": 80,
       "symbol": "BPKCalendar.-initWithCoder:",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/Calendar/Classes/BPKCalendar.h",
-      "line": 140,
+      "line": 147,
       "symbol": "BPKCalendar.-reloadData",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
       "warning": "undocumented"
