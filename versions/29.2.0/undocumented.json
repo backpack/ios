@@ -85,6 +85,27 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigation.h",
+      "line": 39,
+      "symbol": "BPKHorizontalNavigation.appearance",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationAppearance.h",
+      "line": 22,
+      "symbol": "BPKHorizontalNavigationAppearance",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationAppearance.h",
+      "line": 22,
+      "symbol": "BPKHorizontalNavigationAppearance",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationDelegate.h",
       "line": 51,
       "symbol": "BPKHorizontalNavigationDelegate.-horizontalNavigation:didSelectItem:withTag:",
@@ -93,7 +114,7 @@
     },
     {
       "file": "/Users/travis/build/Skyscanner/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationItem.h",
-      "line": 27,
+      "line": 28,
       "symbol": "BPKHorizontalNavigationItem",
       "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
       "warning": "undocumented"
