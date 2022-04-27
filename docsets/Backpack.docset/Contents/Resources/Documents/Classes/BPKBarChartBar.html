@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>BPKBarChartBar Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/BPKBarChartBar" class="dashAnchor"></a>
+    <a title="BPKBarChartBar Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">Backpack 49.0.1 Docs</a> (47% documented)</p>
+        <div class="header-right">
+          <form role="search" action="../search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </div>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">Backpack Reference</a>
+        <img id="carat" src="../img/carat.png" alt=""/>
+        BPKBarChartBar Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBadge.html">BPKBadge</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBadge/Icon.html">– Icon</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBarChart.html">BPKBarChart</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBarChartBar.html">BPKBarChartBar</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBarChartKeyItem.html">BPKBarChartKeyItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBottomSheet.html">BPKBottomSheet</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKBottomSheet/PresentationStyle.html">– PresentationStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKButtonAppearanceSets.html">BPKButtonAppearanceSets</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKHorizontalNavigation.html">BPKHorizontalNavigation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKHorizontalNavigation/AnyOption.html">– AnyOption</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKHorizontalNavigationObjc.html">BPKHorizontalNavigationObjc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BPKHorizontalNavigationOptionObjc.html">BPKHorizontalNavigationOptionObjc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ModalBottomSheetLayout.html">ModalBottomSheetLayout</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PersistentBottomSheetLayout.html">PersistentBottomSheetLayout</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/BPKBadgeType.html">BPKBadgeType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BPKFloatingPanelPosition.html">BPKFloatingPanelPosition</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BPKHorizontalNavigationAppearance.html">BPKHorizontalNavigationAppearance</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BPKHorizontalNavigationSizeDefault.html">BPKHorizontalNavigationSizeDefault</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BPKHorizontalNavigationSizeObjc.html">BPKHorizontalNavigationSizeObjc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BPKHorizontalNavigationSizeSmall.html">BPKHorizontalNavigationSizeSmall</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Extensions/BPKLargeIconName.html">BPKLargeIconName</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/BPKSmallIconName.html">BPKSmallIconName</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKBarChartCollectionViewDataSource.html">BPKBarChartCollectionViewDataSource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKBarChartCollectionViewDelegate.html">BPKBarChartCollectionViewDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKBottomSheetDelegate.html">BPKBottomSheetDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationDelegate.html">BPKHorizontalNavigationDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationDelegateObjc.html">BPKHorizontalNavigationDelegateObjc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationItem.html">BPKHorizontalNavigationItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationItemObjc.html">BPKHorizontalNavigationItemObjc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationOption.html">BPKHorizontalNavigationOption</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationOptionIcon.html">BPKHorizontalNavigationOptionIcon</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationOptionTypeObjc.html">BPKHorizontalNavigationOptionTypeObjc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BPKHorizontalNavigationSize.html">BPKHorizontalNavigationSize</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/BottomSheetInsets.html">BottomSheetInsets</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>BPKBarChartBar</h1>
+              <div class="declaration">
+                <div class="language">
+                  
+                  <pre class="highlight swift"><code><span class="kd">@objcMembers</span>
+<span class="kd">@objc(BPKBarChartBar)</span>
+<span class="kd">public</span> <span class="kd">final</span> <span class="kd">class</span> <span class="kt">BPKBarChartBar</span> <span class="p">:</span> <span class="kt">UIControl</span></code></pre>
+
+                </div>
+              </div>
+            <p>Undocumented</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(py)selected"></a>
+                    <a name="//apple_ref/swift/Property/isSelected" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(py)selected">isSelected</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Whether the bar is selected or not</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">override</span> <span class="k">var</span> <span class="nv">isSelected</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(py)fillValue"></a>
+                    <a name="//apple_ref/swift/Property/fillValue" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(py)fillValue">fillValue</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The relative value of the bar between 0.0 and 1.0. This determines how &ldquo;full&rdquo; the bar will appear.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fillValue</span><span class="p">:</span> <span class="kt">NSNumber</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(py)valueDescription"></a>
+                    <a name="//apple_ref/swift/Property/valueDescription" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(py)valueDescription">valueDescription</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The actual value associated with the bar.
+This is the value shown in the flare when the bar is selected.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">valueDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(py)title"></a>
+                    <a name="//apple_ref/swift/Property/title" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(py)title">title</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The title to show below the bar</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">title</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(py)subtitle"></a>
+                    <a name="//apple_ref/swift/Property/subtitle" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(py)subtitle">subtitle</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The subtitle to show below the title</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">subtitle</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(py)barTopPosition"></a>
+                    <a name="//apple_ref/swift/Property/barTopPosition" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(py)barTopPosition">barTopPosition</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The absolute position of the top of the bar view</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">barTopPosition</span><span class="p">:</span> <span class="kt">CGFloat</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(im)initWithFrame:"></a>
+                    <a name="//apple_ref/swift/Method/init(frame:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(im)initWithFrame:">init(frame:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">override</span> <span class="nf">init</span><span class="p">(</span><span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@Backpack@objc(cs)BPKBarChartBar(im)initWithCoder:"></a>
+                    <a name="//apple_ref/swift/Method/init(coder:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@Backpack@objc(cs)BPKBarChartBar(im)initWithCoder:">init(coder:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">required</span> <span class="nf">init</span><span class="p">?(</span><span class="nv">coder</span><span class="p">:</span> <span class="kt">NSCoder</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2022 <a class="link" href="https://github.com/Skyscanner/backpack-ios" target="_blank" rel="external noopener">Backpack Design System</a>. All rights reserved. (Last updated: 2022-04-27)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.2</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</html>
