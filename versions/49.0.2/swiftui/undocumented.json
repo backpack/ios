@@ -1,0 +1,12 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/ExampleComponent/Classes/ExampleComponent.swift",
+      "line": 21,
+      "symbol": "ExampleComponent",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/backpack-ios/backpack-ios"
+}
