@@ -1,0 +1,2413 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 19,
+      "symbol": "BPKButton",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 19,
+      "symbol": "BPKButton",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 19,
+      "symbol": "BPKButton",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 22,
+      "symbol": "BPKButton",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 33,
+      "symbol": "BPKButton.init(icon:accessibilityLabel:loading:enabled:size:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 50,
+      "symbol": "BPKButton.init(_:icon:loading:enabled:size:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 81,
+      "symbol": "BPKButton.buttonStyle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButton.swift",
+      "line": 87,
+      "symbol": "BPKButton.accessiblityLabel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonIcon.swift",
+      "line": 20,
+      "symbol": "BPKButton.Icon",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonIcon.swift",
+      "line": 24,
+      "symbol": "BPKButton.Icon.init(icon:position:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonIcon.swift",
+      "line": 30,
+      "symbol": "BPKButton.IconPosition",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonIcon.swift",
+      "line": 39,
+      "symbol": "BPKButton.Icon",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonIcon.swift",
+      "line": 40,
+      "symbol": "BPKButton.Icon.leading(icon:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonIcon.swift",
+      "line": 44,
+      "symbol": "BPKButton.Icon.trailing(icon:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonSize.swift",
+      "line": 20,
+      "symbol": "BPKButton.Size",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Button/Classes/BPKButtonStyle.swift",
+      "line": 20,
+      "symbol": "BPKButton.Style",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 21,
+      "symbol": "BPKCard",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 22,
+      "symbol": "BPKCard.CornerStyle",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 23,
+      "symbol": "BPKCard.CornerStyle.large",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 23,
+      "symbol": "BPKCard.CornerStyle.small",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 26,
+      "symbol": "BPKCard.Elevation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 27,
+      "symbol": "BPKCard.Elevation.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 27,
+      "symbol": "BPKCard.Elevation.focus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 38,
+      "symbol": "BPKCard.Padding",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 39,
+      "symbol": "BPKCard.Padding.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 39,
+      "symbol": "BPKCard.Padding.small",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 52,
+      "symbol": "BPKCard.init(padding:cornerStyle:elevation:content:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Card/Classes/BPKCard.swift",
+      "line": 81,
+      "symbol": "BPKCard.onTapGesture(perform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 20,
+      "symbol": "BPKColor",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 21,
+      "symbol": "BPKColor",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 22,
+      "symbol": "BPKColor.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 26,
+      "symbol": "BPKColor",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 36,
+      "symbol": "Color.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 42,
+      "symbol": "View.background(_:alignment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/BPKColor.swift",
+      "line": 46,
+      "symbol": "View.foregroundColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/Generated/BPKDynamicColors.swift",
+      "line": 21,
+      "symbol": "dynamicColor(lightVariant:darkVariant:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Color/Classes/Generated/BPKDynamicColors.swift",
+      "line": 27,
+      "symbol": "BPKColor.darkVariant(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/ExampleComponent/Classes/ExampleComponent.swift",
+      "line": 21,
+      "symbol": "ExampleComponent",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFont.swift",
+      "line": 21,
+      "symbol": "BPKFont",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFont.swift",
+      "line": 24,
+      "symbol": "BPKFont.setFontDefinition(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 19,
+      "symbol": "BPKFontDefinition",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 20,
+      "symbol": "BPKFontDefinition.fontFamily",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 21,
+      "symbol": "BPKFontDefinition.regularFontFace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 22,
+      "symbol": "BPKFontDefinition.semiboldFontFace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 25,
+      "symbol": "BPKRelativeFontDefinition",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 26,
+      "symbol": "BPKRelativeFontDefinition.fontFamily",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 27,
+      "symbol": "BPKRelativeFontDefinition.regularFontFace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 28,
+      "symbol": "BPKRelativeFontDefinition.semiboldFontFace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/BPKFontDefinition.swift",
+      "line": 30,
+      "symbol": "BPKRelativeFontDefinition.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/Generated/BPKFontStyle.swift",
+      "line": 21,
+      "symbol": "BPKFontStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/Generated/BPKFontStyle.swift",
+      "line": 22,
+      "symbol": "BPKFontStyle.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/Generated/BPKFontStyle.swift",
+      "line": 23,
+      "symbol": "BPKFontStyle.letterSpacing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/Generated/BPKFontStyle.swift",
+      "line": 24,
+      "symbol": "BPKFontStyle.lineHeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Font/Classes/Generated/BPKFontStyle.swift",
+      "line": 27,
+      "symbol": "BPKFontStyle",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIcon.swift",
+      "line": 19,
+      "symbol": "BPKIcon",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIcon.swift",
+      "line": 19,
+      "symbol": "BPKIcon",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIcon.swift",
+      "line": 20,
+      "symbol": "BPKIcon.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIcon.swift",
+      "line": 22,
+      "symbol": "BPKIcon.Size",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIcon.swift",
+      "line": 23,
+      "symbol": "BPKIcon.Size.large",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIcon.swift",
+      "line": 23,
+      "symbol": "BPKIcon.Size.small",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIconView.swift",
+      "line": 22,
+      "symbol": "BPKIconView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/BPKIconView.swift",
+      "line": 26,
+      "symbol": "BPKIconView.init(_:size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 20,
+      "symbol": "BPKIcon.accessibility",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 21,
+      "symbol": "BPKIcon.accountAdd",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 22,
+      "symbol": "BPKIcon.accountFemale",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 23,
+      "symbol": "BPKIcon.accountIdCard",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 24,
+      "symbol": "BPKIcon.accountName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 25,
+      "symbol": "BPKIcon.accountPermit",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 26,
+      "symbol": "BPKIcon.accountCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 27,
+      "symbol": "BPKIcon.account",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 28,
+      "symbol": "BPKIcon.addCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 29,
+      "symbol": "BPKIcon.adult",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 30,
+      "symbol": "BPKIcon.aircon",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 31,
+      "symbol": "BPKIcon.aircraft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 32,
+      "symbol": "BPKIcon.airlineMultiple",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 33,
+      "symbol": "BPKIcon.airline",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 34,
+      "symbol": "BPKIcon.airports",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 35,
+      "symbol": "BPKIcon.alertActive",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 36,
+      "symbol": "BPKIcon.alertAdd",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 37,
+      "symbol": "BPKIcon.alertExpired",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 38,
+      "symbol": "BPKIcon.alertRemove",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 39,
+      "symbol": "BPKIcon.arrowDown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 40,
+      "symbol": "BPKIcon.arrowLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 41,
+      "symbol": "BPKIcon.arrowRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 42,
+      "symbol": "BPKIcon.arrowUp",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 43,
+      "symbol": "BPKIcon.award",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 44,
+      "symbol": "BPKIcon.babyCarriage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 45,
+      "symbol": "BPKIcon.baggageAdd",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 46,
+      "symbol": "BPKIcon.baggageRemove",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 47,
+      "symbol": "BPKIcon.baggageCross",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 48,
+      "symbol": "BPKIcon.baggageTick",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 49,
+      "symbol": "BPKIcon.baggage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 50,
+      "symbol": "BPKIcon.bar",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 51,
+      "symbol": "BPKIcon.beach",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 52,
+      "symbol": "BPKIcon.beer",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 53,
+      "symbol": "BPKIcon.breakfastCross",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 54,
+      "symbol": "BPKIcon.breakfastTick",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 55,
+      "symbol": "BPKIcon.bus",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 56,
+      "symbol": "BPKIcon.business",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 57,
+      "symbol": "BPKIcon.cafe",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 58,
+      "symbol": "BPKIcon.calendar",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 59,
+      "symbol": "BPKIcon.callBack",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 60,
+      "symbol": "BPKIcon.camera",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 61,
+      "symbol": "BPKIcon.camperVan",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 62,
+      "symbol": "BPKIcon.carDoor",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 63,
+      "symbol": "BPKIcon.carWash",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 64,
+      "symbol": "BPKIcon.carsFlexible",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 65,
+      "symbol": "BPKIcon.cars",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 66,
+      "symbol": "BPKIcon.centerLocation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 67,
+      "symbol": "BPKIcon.chart",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 68,
+      "symbol": "BPKIcon.chauffeur",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 69,
+      "symbol": "BPKIcon.chevronDown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 70,
+      "symbol": "BPKIcon.chevronLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 71,
+      "symbol": "BPKIcon.chevronRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 72,
+      "symbol": "BPKIcon.chevronUp",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 73,
+      "symbol": "BPKIcon.childSeat",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 74,
+      "symbol": "BPKIcon.child",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 75,
+      "symbol": "BPKIcon.cityCenter",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 76,
+      "symbol": "BPKIcon.city",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 77,
+      "symbol": "BPKIcon.cleanPolicy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 78,
+      "symbol": "BPKIcon.clean",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 79,
+      "symbol": "BPKIcon.cleaningMedical",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 80,
+      "symbol": "BPKIcon.cloakroom",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 81,
+      "symbol": "BPKIcon.closeCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 82,
+      "symbol": "BPKIcon.close",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 83,
+      "symbol": "BPKIcon.collapse",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 84,
+      "symbol": "BPKIcon.contentCopy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 85,
+      "symbol": "BPKIcon.contentEvent",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 86,
+      "symbol": "BPKIcon.contentGuides",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 87,
+      "symbol": "BPKIcon.currency",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 88,
+      "symbol": "BPKIcon.data",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 89,
+      "symbol": "BPKIcon.deals",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 90,
+      "symbol": "BPKIcon.depart",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 91,
+      "symbol": "BPKIcon.deviceMid",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 92,
+      "symbol": "BPKIcon.deviceWide",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 93,
+      "symbol": "BPKIcon.direct",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 94,
+      "symbol": "BPKIcon.documentCsv",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 95,
+      "symbol": "BPKIcon.documentPdf",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 96,
+      "symbol": "BPKIcon.download",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 97,
+      "symbol": "BPKIcon.duration",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 98,
+      "symbol": "BPKIcon.ecoLeaf",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 99,
+      "symbol": "BPKIcon.edit",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 100,
+      "symbol": "BPKIcon.education",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 101,
+      "symbol": "BPKIcon.electric",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 102,
+      "symbol": "BPKIcon.endCall",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 103,
+      "symbol": "BPKIcon.estimated",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 104,
+      "symbol": "BPKIcon.exclamationCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 105,
+      "symbol": "BPKIcon.exclamation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 106,
+      "symbol": "BPKIcon.expand",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 107,
+      "symbol": "BPKIcon.explore",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 108,
+      "symbol": "BPKIcon.faceBlank",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 109,
+      "symbol": "BPKIcon.faceHappy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 110,
+      "symbol": "BPKIcon.faceSad",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 111,
+      "symbol": "BPKIcon.faceId",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 112,
+      "symbol": "BPKIcon.faceMask",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 113,
+      "symbol": "BPKIcon.family",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 114,
+      "symbol": "BPKIcon.fastTrack",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 115,
+      "symbol": "BPKIcon.fastTrain",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 116,
+      "symbol": "BPKIcon.filter",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 117,
+      "symbol": "BPKIcon.fingerprint",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 118,
+      "symbol": "BPKIcon.flag",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 119,
+      "symbol": "BPKIcon.flask",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 120,
+      "symbol": "BPKIcon.flightFlexible",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 121,
+      "symbol": "BPKIcon.flightLanding",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 122,
+      "symbol": "BPKIcon.flightTakeoff",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 123,
+      "symbol": "BPKIcon.flight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 124,
+      "symbol": "BPKIcon.food",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 125,
+      "symbol": "BPKIcon.gearsAutomaticCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 126,
+      "symbol": "BPKIcon.gearsAutomatic",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 127,
+      "symbol": "BPKIcon.gearsManualCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 128,
+      "symbol": "BPKIcon.gearsManual",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 129,
+      "symbol": "BPKIcon.globe",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 130,
+      "symbol": "BPKIcon.gridLayout",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 131,
+      "symbol": "BPKIcon.headset",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 132,
+      "symbol": "BPKIcon.healthFitness",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 133,
+      "symbol": "BPKIcon.heartOutline",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 134,
+      "symbol": "BPKIcon.heart",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 135,
+      "symbol": "BPKIcon.helpCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 136,
+      "symbol": "BPKIcon.help",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 137,
+      "symbol": "BPKIcon.hide",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 138,
+      "symbol": "BPKIcon.hotelFlexible",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 139,
+      "symbol": "BPKIcon.hotelsDisabledFacilities",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 140,
+      "symbol": "BPKIcon.hotelsJacuzzi",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 141,
+      "symbol": "BPKIcon.hotelsPetsAllowed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 142,
+      "symbol": "BPKIcon.hotelsSmoking",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 143,
+      "symbol": "BPKIcon.hotels",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 144,
+      "symbol": "BPKIcon.infant",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 145,
+      "symbol": "BPKIcon.informationLanguageAlert",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 146,
+      "symbol": "BPKIcon.informationLanguageQuestion",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 147,
+      "symbol": "BPKIcon.informationLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 148,
+      "symbol": "BPKIcon.informationCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 149,
+      "symbol": "BPKIcon.information",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 150,
+      "symbol": "BPKIcon.insurance",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 151,
+      "symbol": "BPKIcon.key",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 152,
+      "symbol": "BPKIcon.keypad",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 153,
+      "symbol": "BPKIcon.landmark",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 154,
+      "symbol": "BPKIcon.language",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 155,
+      "symbol": "BPKIcon.legroomExtra",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 156,
+      "symbol": "BPKIcon.legroomNormal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 157,
+      "symbol": "BPKIcon.legroomReduced",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 158,
+      "symbol": "BPKIcon.leisure",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 159,
+      "symbol": "BPKIcon.lightning",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 160,
+      "symbol": "BPKIcon.list",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 161,
+      "symbol": "BPKIcon.location",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 162,
+      "symbol": "BPKIcon.lock",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 163,
+      "symbol": "BPKIcon.logout",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 164,
+      "symbol": "BPKIcon.longArrowDown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 165,
+      "symbol": "BPKIcon.longArrowLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 166,
+      "symbol": "BPKIcon.longArrowRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 167,
+      "symbol": "BPKIcon.longArrowUp",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 168,
+      "symbol": "BPKIcon.lounge",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 169,
+      "symbol": "BPKIcon.luggageall",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 170,
+      "symbol": "BPKIcon.mail",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 171,
+      "symbol": "BPKIcon.map",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 172,
+      "symbol": "BPKIcon.meal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 173,
+      "symbol": "BPKIcon.media",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 174,
+      "symbol": "BPKIcon.menuHorizontal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 175,
+      "symbol": "BPKIcon.menuVertical",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 176,
+      "symbol": "BPKIcon.menu",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 177,
+      "symbol": "BPKIcon.mileage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 178,
+      "symbol": "BPKIcon.minus",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 179,
+      "symbol": "BPKIcon.mobile",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 180,
+      "symbol": "BPKIcon.money",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 181,
+      "symbol": "BPKIcon.multipleBookings",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 182,
+      "symbol": "BPKIcon.music",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 183,
+      "symbol": "BPKIcon.mute",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 184,
+      "symbol": "BPKIcon.nativeAndroidBack",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 185,
+      "symbol": "BPKIcon.nativeAndroidClose",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 186,
+      "symbol": "BPKIcon.nativeAndroidForward",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 187,
+      "symbol": "BPKIcon.nativeiOsClose",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 188,
+      "symbol": "BPKIcon.navigation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 189,
+      "symbol": "BPKIcon.newWindow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 190,
+      "symbol": "BPKIcon.news",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 191,
+      "symbol": "BPKIcon.night",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 192,
+      "symbol": "BPKIcon.notAllowed",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 193,
+      "symbol": "BPKIcon.onsen",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 194,
+      "symbol": "BPKIcon.paid",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 195,
+      "symbol": "BPKIcon.paperclip",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 196,
+      "symbol": "BPKIcon.parking",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 197,
+      "symbol": "BPKIcon.passport",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 198,
+      "symbol": "BPKIcon.pause",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 199,
+      "symbol": "BPKIcon.paymentCard",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 200,
+      "symbol": "BPKIcon.petrol",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 201,
+      "symbol": "BPKIcon.phoneCall",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 202,
+      "symbol": "BPKIcon.picture",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 203,
+      "symbol": "BPKIcon.pin",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 204,
+      "symbol": "BPKIcon.planeSeat",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 205,
+      "symbol": "BPKIcon.play",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 206,
+      "symbol": "BPKIcon.plus",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 207,
+      "symbol": "BPKIcon.policy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 208,
+      "symbol": "BPKIcon.powerplug",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 209,
+      "symbol": "BPKIcon.ppe",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 210,
+      "symbol": "BPKIcon.priceAlerts",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 211,
+      "symbol": "BPKIcon.priceTag",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 212,
+      "symbol": "BPKIcon.print",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 213,
+      "symbol": "BPKIcon.recentSearches",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 214,
+      "symbol": "BPKIcon.redo",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 215,
+      "symbol": "BPKIcon.refresh",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 216,
+      "symbol": "BPKIcon.return",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 217,
+      "symbol": "BPKIcon.room",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 218,
+      "symbol": "BPKIcon.scales",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 219,
+      "symbol": "BPKIcon.search",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 220,
+      "symbol": "BPKIcon.selfService",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 221,
+      "symbol": "BPKIcon.sendMessage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 222,
+      "symbol": "BPKIcon.services",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 223,
+      "symbol": "BPKIcon.settings",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 224,
+      "symbol": "BPKIcon.shareAndroid",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 225,
+      "symbol": "BPKIcon.shareiOs",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 226,
+      "symbol": "BPKIcon.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 227,
+      "symbol": "BPKIcon.singleBooking",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 228,
+      "symbol": "BPKIcon.socialDistancing",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 229,
+      "symbol": "BPKIcon.socialLike",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 230,
+      "symbol": "BPKIcon.sortDown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 231,
+      "symbol": "BPKIcon.sortUp",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 232,
+      "symbol": "BPKIcon.sort",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 233,
+      "symbol": "BPKIcon.speaker",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 234,
+      "symbol": "BPKIcon.starHalf",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 235,
+      "symbol": "BPKIcon.starOutline",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 236,
+      "symbol": "BPKIcon.star",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 237,
+      "symbol": "BPKIcon.stops",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 238,
+      "symbol": "BPKIcon.swapHorizontal",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 239,
+      "symbol": "BPKIcon.swapVertical",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 240,
+      "symbol": "BPKIcon.swap",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 241,
+      "symbol": "BPKIcon.taxi",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 242,
+      "symbol": "BPKIcon.thumbsDown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 243,
+      "symbol": "BPKIcon.thumbsUp",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 244,
+      "symbol": "BPKIcon.tickCircle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 245,
+      "symbol": "BPKIcon.tick",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 246,
+      "symbol": "BPKIcon.ticketFlexible",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 247,
+      "symbol": "BPKIcon.ticket",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 248,
+      "symbol": "BPKIcon.time",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 249,
+      "symbol": "BPKIcon.toilets",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 250,
+      "symbol": "BPKIcon.train",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 251,
+      "symbol": "BPKIcon.transmissionAutomatic",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 252,
+      "symbol": "BPKIcon.transmissionManual",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 253,
+      "symbol": "BPKIcon.trash",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 254,
+      "symbol": "BPKIcon.trendDown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 255,
+      "symbol": "BPKIcon.trendSteady",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 256,
+      "symbol": "BPKIcon.trendWillRise",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 257,
+      "symbol": "BPKIcon.trend",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 258,
+      "symbol": "BPKIcon.trips",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 259,
+      "symbol": "BPKIcon.undo",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 260,
+      "symbol": "BPKIcon.unlock",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 261,
+      "symbol": "BPKIcon.unmute",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 262,
+      "symbol": "BPKIcon.upgrade",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 263,
+      "symbol": "BPKIcon.useLocation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 264,
+      "symbol": "BPKIcon.view",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 265,
+      "symbol": "BPKIcon.virus",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 266,
+      "symbol": "BPKIcon.wallet",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 267,
+      "symbol": "BPKIcon.weatherClear",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 268,
+      "symbol": "BPKIcon.weatherCloudy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 269,
+      "symbol": "BPKIcon.weatherFog",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 270,
+      "symbol": "BPKIcon.weatherPartlyCloudy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 271,
+      "symbol": "BPKIcon.weatherRain",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 272,
+      "symbol": "BPKIcon.weatherSnow",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 273,
+      "symbol": "BPKIcon.weatherThunderstorm",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 274,
+      "symbol": "BPKIcon.weatherTornado",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 275,
+      "symbol": "BPKIcon.weatherWind",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 276,
+      "symbol": "BPKIcon.weather",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 277,
+      "symbol": "BPKIcon.wifi",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 278,
+      "symbol": "BPKIcon.windowReduce",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 279,
+      "symbol": "BPKIcon.window",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 280,
+      "symbol": "BPKIcon.worldAmer",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 281,
+      "symbol": "BPKIcon.worldApac",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Icons/Classes/Generated/BPKIcons.swift",
+      "line": 282,
+      "symbol": "BPKIcon.worldEmea",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Radii/Classes/Generated/BPKRadii.swift",
+      "line": 22,
+      "symbol": "BPKCornerRadius",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Radii/Classes/Generated/BPKRadii.swift",
+      "line": 23,
+      "symbol": "BPKCornerRadius.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Radii/Classes/Generated/BPKRadii.swift",
+      "line": 31,
+      "symbol": "RoundedRectangle.init(cornerRadius:style:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Radii/Classes/Generated/BPKRadii.swift",
+      "line": 36,
+      "symbol": "BPKCornerRadius",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Shadow/Classes/Generated/BPKShadow.swift",
+      "line": 21,
+      "symbol": "BPKShadow",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Shadow/Classes/Generated/BPKShadow.swift",
+      "line": 37,
+      "symbol": "BPKShadow",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Shadow/Classes/Generated/BPKShadow.swift",
+      "line": 47,
+      "symbol": "View.shadow(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 21,
+      "symbol": "BPKSpacing",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 22,
+      "symbol": "BPKSpacing.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 29,
+      "symbol": "BPKSpacing",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 57,
+      "symbol": "View.padding(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 61,
+      "symbol": "View.padding(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 65,
+      "symbol": "View.frame(minWidth:idealWidth:maxWidth:minHeight:idealHeight:maxHeight:alignment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 85,
+      "symbol": "View.frame(width:height:alignment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Spacing/Classes/Generated/BPKSpacing.swift",
+      "line": 91,
+      "symbol": "Spacer.init(minLength:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Text/Classes/BPKAttributedText.swift",
+      "line": 40,
+      "symbol": "BPKAttributedText.Item",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Text/Classes/BPKAttributedText.swift",
+      "line": 45,
+      "symbol": "BPKAttributedText.Item.init(_:style:color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Text/Classes/BPKAttributedText.swift",
+      "line": 54,
+      "symbol": "BPKAttributedText.init(items:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack-SwiftUI/Text/Classes/BPKText.swift",
+      "line": 43,
+      "symbol": "BPKText.init(_:style:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/backpack-ios/backpack-ios"
+}
