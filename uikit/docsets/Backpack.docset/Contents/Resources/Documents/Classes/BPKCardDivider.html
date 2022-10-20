@@ -307,6 +307,9 @@
                 <a href="../Constants.html#/c:@BPKCardDefaultCornerStyle">BPKCardDefaultCornerStyle</a>
               </li>
               <li class="nav-group-task">
+                <a href="../Constants.html#/c:@BPKCardDividerDefaultLineStyle">BPKCardDividerDefaultLineStyle</a>
+              </li>
+              <li class="nav-group-task">
                 <a href="../Constants.html#/c:@BPKFlareVectorHeight">BPKFlareVectorHeight</a>
               </li>
               <li class="nav-group-task">
@@ -334,6 +337,9 @@
               </li>
               <li class="nav-group-task">
                 <a href="../Enums/BPKCardCornerStyle.html">BPKCardCornerStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/BPKCardDividerLineStyle.html">BPKCardDividerLineStyle</a>
               </li>
               <li class="nav-group-task">
                 <a href="../Enums/BPKDialogControllerStyle.html">BPKDialogControllerStyle</a>
@@ -499,6 +505,38 @@
                 <li class="item">
                   <div>
                     <code>
+                    <a name="/c:objc(cs)BPKCardDivider(py)lineStyle"></a>
+                    <a name="//apple_ref/swift/Property/lineStyle" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKCardDivider(py)lineStyle">lineStyle</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The line-style to apply to the divider.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">@property</span> <span class="p">(</span><span class="n">nonatomic</span><span class="p">)</span> <span class="n"><a href="../Enums/BPKCardDividerLineStyle.html">BPKCardDividerLineStyle</a></span> <span class="n">lineStyle</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">lineStyle</span><span class="p">:</span> <span class="kt"><a href="../Enums/BPKCardDividerLineStyle.html">BPKCardDividerLineStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
                     <a name="/c:objc(cs)BPKCardDivider(im)initWithOrientation:"></a>
                     <a name="//apple_ref/swift/Method/-initWithOrientation:" class="dashAnchor"></a>
                     <a class="token" href="#/c:objc(cs)BPKCardDivider(im)initWithOrientation:">-initWithOrientation:<wbr></a>
@@ -509,7 +547,7 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Create a <code>BPKCardDivider</code> with orientation initially set.</p>
+                        <p>Create a <code>BPKCardDivider</code> with orientation and line style initially set.</p>
 
                       </div>
                       <div class="declaration">
@@ -547,12 +585,76 @@
                     </section>
                   </div>
                 </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:objc(cs)BPKCardDivider(im)initWithOrientation:lineStyle:"></a>
+                    <a name="//apple_ref/swift/Method/-initWithOrientation:lineStyle:" class="dashAnchor"></a>
+                    <a class="token" href="#/c:objc(cs)BPKCardDivider(im)initWithOrientation:lineStyle:">-initWithOrientation:<wbr>lineStyle:<wbr></a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Create a <code>BPKCardDivider</code> with orientation and line style initially set.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Objective-C</p>
+                          <pre class="highlight objective_c"><code><span class="k">-</span> <span class="p">(</span><span class="n">nonnull</span> <span class="n">instancetype</span><span class="p">)</span><span class="nf">initWithOrientation</span><span class="p">:(</span><span class="n">UILayoutConstraintAxis</span><span class="p">)</span><span class="nv">orientation</span>
+                                  <span class="nf">lineStyle</span><span class="p">:(</span><span class="n"><a href="../Enums/BPKCardDividerLineStyle.html">BPKCardDividerLineStyle</a></span><span class="p">)</span><span class="nv">lineStyle</span><span class="p">;</span></code></pre>
+
+                        </div>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="nf">init</span><span class="p">(</span><span class="nv">orientation</span><span class="p">:</span> <span class="kt">NSLayoutConstraint</span><span class="o">.</span><span class="kt">Axis</span><span class="p">,</span> <span class="nv">lineStyle</span><span class="p">:</span> <span class="kt"><a href="../Enums/BPKCardDividerLineStyle.html">BPKCardDividerLineStyle</a></span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>orientation</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>Whether the divider is for a vertical or horizontal layout.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>lineStyle</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>The line style for the divider.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </section>
+                  </div>
+                </li>
               </ul>
             </div>
           </section>
         </section>
         <section id="footer">
-          <p>&copy; 2022 <a class="link" href="https://github.com/Skyscanner/backpack-ios" target="_blank" rel="external noopener">Backpack Design System</a>. All rights reserved. (Last updated: 2022-10-19)</p>
+          <p>&copy; 2022 <a class="link" href="https://github.com/Skyscanner/backpack-ios" target="_blank" rel="external noopener">Backpack Design System</a>. All rights reserved. (Last updated: 2022-10-20)</p>
           <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
         </section>
       </article>
