@@ -1,0 +1,2175 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 19,
+      "symbol": "BPKBadge",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 23,
+      "symbol": "BPKBadge",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 24,
+      "symbol": "BPKBadge.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 29,
+      "symbol": "BPKBadge.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 33,
+      "symbol": "BPKBadge.icon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 58,
+      "symbol": "BPKBadge.init(type:icon:message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 66,
+      "symbol": "BPKBadge.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 71,
+      "symbol": "BPKBadge.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/Badge.swift",
+      "line": 120,
+      "symbol": "BPKBadge.traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeIcon.swift",
+      "line": 22,
+      "symbol": "BPKBadge.Icon",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeIcon.swift",
+      "line": 23,
+      "symbol": "BPKBadge.Icon.init(iconName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 20,
+      "symbol": "BPKBadgeType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 21,
+      "symbol": "BPKBadgeType.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 22,
+      "symbol": "BPKBadgeType.warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 23,
+      "symbol": "BPKBadgeType.destructive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 24,
+      "symbol": "BPKBadgeType.inverse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 25,
+      "symbol": "BPKBadgeType.outline",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 26,
+      "symbol": "BPKBadgeType.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 27,
+      "symbol": "BPKBadgeType.strong",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Badge/Classes/BadgeType.swift",
+      "line": 28,
+      "symbol": "BPKBadgeType.brand",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 23,
+      "symbol": "BPKBarChart",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 140,
+      "symbol": "BPKBarChart",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 141,
+      "symbol": "BPKBarChart.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 145,
+      "symbol": "BPKBarChart.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 149,
+      "symbol": "BPKBarChart.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 166,
+      "symbol": "BPKBarChart.collectionView(_:viewForSupplementaryElementOfKind:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 182,
+      "symbol": "BPKBarChart",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 183,
+      "symbol": "BPKBarChart.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 189,
+      "symbol": "BPKBarChart",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChart.swift",
+      "line": 190,
+      "symbol": "BPKBarChart.collectionView(_:layout:referenceSizeForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChartBar.swift",
+      "line": 23,
+      "symbol": "BPKBarChartBar",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChartBar.swift",
+      "line": 81,
+      "symbol": "BPKBarChartBar.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChartBar.swift",
+      "line": 86,
+      "symbol": "BPKBarChartBar.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChartCollectionViewDataSource.swift",
+      "line": 22,
+      "symbol": "BPKBarChartCollectionViewDataSource",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChartCollectionViewDelegate.swift",
+      "line": 22,
+      "symbol": "BPKBarChartCollectionViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BarChart/Classes/BarChartKeyItem.swift",
+      "line": 23,
+      "symbol": "BPKBarChartKeyItem",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BPKFloatingPanelPosition.swift",
+      "line": 24,
+      "symbol": "BPKFloatingPanelPosition.full",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BPKFloatingPanelPosition.swift",
+      "line": 25,
+      "symbol": "BPKFloatingPanelPosition.half",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BPKFloatingPanelPosition.swift",
+      "line": 26,
+      "symbol": "BPKFloatingPanelPosition.tip",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BPKFloatingPanelPosition.swift",
+      "line": 27,
+      "symbol": "BPKFloatingPanelPosition.hidden",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheet.swift",
+      "line": 23,
+      "symbol": "BPKBottomSheetDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheet.swift",
+      "line": 24,
+      "symbol": "BPKBottomSheetDelegate.bottomSheetDidChangePosition(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheet.swift",
+      "line": 29,
+      "symbol": "BPKBottomSheet",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheet.swift",
+      "line": 40,
+      "symbol": "BPKBottomSheet.PresentationStyle.modal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheet.swift",
+      "line": 41,
+      "symbol": "BPKBottomSheet.PresentationStyle.persistent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheet.swift",
+      "line": 233,
+      "symbol": "BPKBottomSheet",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheetInsets.swift",
+      "line": 21,
+      "symbol": "BottomSheetInsets",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheetInsets.swift",
+      "line": 22,
+      "symbol": "BottomSheetInsets.full",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheetInsets.swift",
+      "line": 23,
+      "symbol": "BottomSheetInsets.half",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheetInsets.swift",
+      "line": 24,
+      "symbol": "BottomSheetInsets.tip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/BottomSheetInsets.swift",
+      "line": 26,
+      "symbol": "BottomSheetInsets.Constants",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/ModalBottomSheetLayout.swift",
+      "line": 50,
+      "symbol": "ModalBottomSheetLayout.init(insets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/BottomSheet/Classes/PersistentBottomSheetLayout.swift",
+      "line": 46,
+      "symbol": "PersistentBottomSheetLayout.init(insets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 23,
+      "symbol": "BPKButtonAppearanceSets",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 30,
+      "symbol": "BPKButtonAppearanceSets.primary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 44,
+      "symbol": "BPKButtonAppearanceSets.secondary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 58,
+      "symbol": "BPKButtonAppearanceSets.featured",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 72,
+      "symbol": "BPKButtonAppearanceSets.destructive",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 86,
+      "symbol": "BPKButtonAppearanceSets.link",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 103,
+      "symbol": "BPKButtonAppearanceSets.linkOnDark",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 120,
+      "symbol": "BPKButtonAppearanceSets.primaryOnDark",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 137,
+      "symbol": "BPKButtonAppearanceSets.secondaryOnDark",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 154,
+      "symbol": "BPKButtonAppearanceSets.primaryOnLight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKButtonAppearanceSets.swift",
+      "line": 172,
+      "symbol": "BPKButtonAppearanceSets.appearance(fromStyle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKLegacyLinkButton.h",
+      "line": 33,
+      "symbol": "BPKLegacyLinkButton.title",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKLegacyLinkButton.h",
+      "line": 35,
+      "symbol": "BPKLegacyLinkButton.size",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKLegacyLinkButton.h",
+      "line": 37,
+      "symbol": "BPKLegacyLinkButton.imagePosition",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKLegacyLinkButton.h",
+      "line": 39,
+      "symbol": "BPKLegacyLinkButton.isLoading",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKLegacyLinkButton.h",
+      "line": 41,
+      "symbol": "BPKLegacyLinkButton.linkContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Button/Classes/BPKLegacyLinkButton.h",
+      "line": 43,
+      "symbol": "BPKLegacyLinkButton.-setImage:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 21,
+      "symbol": "SelectionType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 21,
+      "symbol": "SelectionType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 22,
+      "symbol": "SelectionType.SelectionTypeNone",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 23,
+      "symbol": "SelectionType.SelectionTypeSingle",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 24,
+      "symbol": "SelectionType.SelectionTypeLeadingBorder",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 25,
+      "symbol": "SelectionType.SelectionTypeMiddle",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 26,
+      "symbol": "SelectionType.SelectionTypeTrailingBorder",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 27,
+      "symbol": "SelectionType.SelectionTypeSameDay",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 30,
+      "symbol": "RowType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 30,
+      "symbol": "RowType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 30,
+      "symbol": "RowType.RowTypeBoth",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 30,
+      "symbol": "RowType.RowTypeEnd",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 30,
+      "symbol": "RowType.RowTypeMiddle",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 30,
+      "symbol": "RowType.RowTypeStart",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 32,
+      "symbol": "BPKCalendarCell",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 34,
+      "symbol": "BPKCalendarCell.selectionType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 35,
+      "symbol": "BPKCalendarCell.rowType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarCell.h",
+      "line": 36,
+      "symbol": "BPKCalendarCell.isWholeMonthSelection",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarHeaderCell.h",
+      "line": 23,
+      "symbol": "BPKCalendarHeaderCell",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarMonthDateProvider.h",
+      "line": 23,
+      "symbol": "BPKMonthDateProvider",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarMonthDateProvider.h",
+      "line": 25,
+      "symbol": "BPKMonthDateProvider.-firstValidDayOfMonth:fromMinDate:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarMonthDateProvider.h",
+      "line": 26,
+      "symbol": "BPKMonthDateProvider.-lastDayOfMonth:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarMonthDateProvider.h",
+      "line": 27,
+      "symbol": "BPKMonthDateProvider.-dateListForMonth:fromMinDate:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarMonthDateProvider.h",
+      "line": 31,
+      "symbol": "BPKCalendarMonthDateProvider",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarMonthDateProvider.h",
+      "line": 33,
+      "symbol": "BPKCalendarMonthDateProvider.-initWithCalendar:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarPriceLabelConfiguration.h",
+      "line": 23,
+      "symbol": "BPKCalendarPriceLabelConfiguration",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfiguration.h",
+      "line": 44,
+      "symbol": "BPKCalendarSelectionConfiguration",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfiguration.h",
+      "line": 79,
+      "symbol": "BPKCalendarSelectionConfiguration.-shouldClearSelectedDates:whenSelectingDate:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfigurationMultiple.h",
+      "line": 41,
+      "symbol": "BPKCalendarSelectionConfigurationMultiple.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfigurationMultiple.h",
+      "line": 44,
+      "symbol": "BPKCalendarSelectionConfigurationMultiple.-initWithSelectionStyle:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfigurationRange.h",
+      "line": 67,
+      "symbol": "BPKCalendarSelectionConfigurationRange.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfigurationRange.h",
+      "line": 70,
+      "symbol": "BPKCalendarSelectionConfigurationRange.-initWithSelectionStyle:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfigurationSingle.h",
+      "line": 34,
+      "symbol": "BPKCalendarSelectionConfigurationSingle.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarSelectionConfigurationSingle.h",
+      "line": 37,
+      "symbol": "BPKCalendarSelectionConfigurationSingle.-initWithSelectionStyle:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarStickyHeader.h",
+      "line": 25,
+      "symbol": "BPKCalendarStickyHeader",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarTrafficLightConfiguration.h",
+      "line": 23,
+      "symbol": "BPKCalendarTrafficLightConfiguration",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarYearPill.h",
+      "line": 21,
+      "symbol": "BPKCalendarYearPill",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Calendar/Classes/BPKCalendarYearPill.h",
+      "line": 23,
+      "symbol": "BPKCalendarYearPill.year",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 23,
+      "symbol": "BPKChip",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 35,
+      "symbol": "BPKChip.icon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 62,
+      "symbol": "BPKChip.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 68,
+      "symbol": "BPKChip.isSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 74,
+      "symbol": "BPKChip.isHighlighted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 85,
+      "symbol": "BPKChip.isEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 172,
+      "symbol": "BPKChip.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChip.swift",
+      "line": 180,
+      "symbol": "BPKChip.traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipStyle.swift",
+      "line": 22,
+      "symbol": "BPKChipStyle",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipStyle.swift",
+      "line": 23,
+      "symbol": "BPKChipStyle.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipStyle.swift",
+      "line": 24,
+      "symbol": "BPKChipStyle.onDark",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipType.swift",
+      "line": 22,
+      "symbol": "BPKChipType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipType.swift",
+      "line": 23,
+      "symbol": "BPKChipType.dismiss",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipType.swift",
+      "line": 23,
+      "symbol": "BPKChipType.option",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Chip/Classes/BPKChipType.swift",
+      "line": 23,
+      "symbol": "BPKChipType.select",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Dialog/Classes/BPKDialogController.h",
+      "line": 77,
+      "symbol": "BPKDialogController.iconDefinition",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/FlareView/Classes/BPKFlarePosition.h",
+      "line": 28,
+      "symbol": "BPKFlarePosition.BPKFlarePositionBottom",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/FlareView/Classes/BPKFlarePosition.h",
+      "line": 30,
+      "symbol": "BPKFlarePosition.BPKFlarePositionTop",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Font/Classes/BPKFontDefinitionProtocol.h",
+      "line": 23,
+      "symbol": "BPKFontDefinitionProtocol",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Font/Classes/BPKFontDefinitionProtocol.h",
+      "line": 26,
+      "symbol": "BPKFontDefinitionProtocol.fontFamily",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Font/Classes/BPKFontDefinitionProtocol.h",
+      "line": 27,
+      "symbol": "BPKFontDefinitionProtocol.regularFontFace",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Font/Classes/BPKFontDefinitionProtocol.h",
+      "line": 28,
+      "symbol": "BPKFontDefinitionProtocol.semiboldFontFace",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Font/Classes/BPKFontDefinitionProtocol.h",
+      "line": 29,
+      "symbol": "BPKFontDefinitionProtocol.heavyFontFace",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Font/Classes/BPKRelativeFontDefinition.h",
+      "line": 25,
+      "symbol": "BPKRelativeFontDefinition",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigation.swift",
+      "line": 29,
+      "symbol": "BPKHorizontalNavigation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 34,
+      "symbol": "BPKHorizontalNavigationItemObjc.selectedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 36,
+      "symbol": "BPKHorizontalNavigationItemObjc.appearance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 78,
+      "symbol": "BPKHorizontalNavigationOptionObjc.init(name:tag:iconName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 86,
+      "symbol": "BPKHorizontalNavigationOptionObjc.init(name:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 124,
+      "symbol": "BPKHorizontalNavigationDelegateObjc.horizontalNavigation(_:didSelectItemAtIndex:withTag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 143,
+      "symbol": "BPKHorizontalNavigationObjc.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 149,
+      "symbol": "BPKHorizontalNavigationObjc.appearance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 168,
+      "symbol": "BPKHorizontalNavigationObjc.selectedItemIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 177,
+      "symbol": "BPKHorizontalNavigationObjc.showsSelectedBar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 186,
+      "symbol": "BPKHorizontalNavigationObjc.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 188,
+      "symbol": "BPKHorizontalNavigationObjc.init(options:selectedItemIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationObjcShim.swift",
+      "line": 249,
+      "symbol": "BPKHorizontalNavigationObjc.horizontalNavigation(_:didSelectItemAtIndex:withTag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 24,
+      "symbol": "BPKHorizontalNavigationSize.fontStyle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 26,
+      "symbol": "BPKHorizontalNavigationSize.verticalSpacing",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 31,
+      "symbol": "BPKHorizontalNavigationSizeDefault.verticalSpacing",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 33,
+      "symbol": "BPKHorizontalNavigationSizeDefault.fontStyle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 38,
+      "symbol": "BPKHorizontalNavigationSizeSmall.verticalSpacing",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 40,
+      "symbol": "BPKHorizontalNavigationSizeSmall.fontStyle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 49,
+      "symbol": "BPKHorizontalNavigationDelegate.horizontalNavigation(_:didSelectItemAtIndex:withTag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 57,
+      "symbol": "BPKHorizontalNavigationAppearance",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 58,
+      "symbol": "BPKHorizontalNavigationAppearance.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 59,
+      "symbol": "BPKHorizontalNavigationAppearance.alternate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 71,
+      "symbol": "BPKHorizontalNavigationOption.Size",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 87,
+      "symbol": "BPKHorizontalNavigationItem",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 88,
+      "symbol": "BPKHorizontalNavigationItem.selectedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 90,
+      "symbol": "BPKHorizontalNavigationItem.appearance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 95,
+      "symbol": "BPKHorizontalNavigationOptionIcon.Size",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 97,
+      "symbol": "BPKHorizontalNavigationOptionIcon.makeImage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 98,
+      "symbol": "BPKHorizontalNavigationOptionIcon.size",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 102,
+      "symbol": "BPKSmallIconName.Size",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 104,
+      "symbol": "BPKSmallIconName.makeImage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 108,
+      "symbol": "BPKSmallIconName.size",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 114,
+      "symbol": "BPKLargeIconName.Size",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 116,
+      "symbol": "BPKLargeIconName.makeImage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/HorizontalNavigation/Classes/BPKHorizontalNavigationTypes.swift",
+      "line": 120,
+      "symbol": "BPKLargeIconName.size",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Label/Classes/BPKLabel.h",
+      "line": 37,
+      "symbol": "BPKLabel.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Label/Classes/BPKLabel.h",
+      "line": 38,
+      "symbol": "BPKLabel.-initWithFrame:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/NavigationBar/Classes/BPKNavigationBarButton.h",
+      "line": 24,
+      "symbol": "BPKNavigationBarButton",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/NavigationBar/Classes/BPKNavigationBarButton.h",
+      "line": 26,
+      "symbol": "BPKNavigationBarButton.contentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Nudger/Classes/BPKNudgerConfiguration.h",
+      "line": 21,
+      "symbol": "BPKNudgerValueFormatter",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Nudger/Classes/BPKNudgerConfiguration.h",
+      "line": 23,
+      "symbol": "BPKNudgerConfiguration",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 25,
+      "symbol": "BPKPanelStyle.BPKPanelStyleDefault",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 26,
+      "symbol": "BPKPanelStyle.BPKPanelStyleElevated",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Panel/Classes/BPKPanel.h",
+      "line": 72,
+      "symbol": "BPKPanel.-new",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRating.h",
+      "line": 90,
+      "symbol": "BPKRating.lowRatingColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRating.h",
+      "line": 91,
+      "symbol": "BPKRating.mediumRatingColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRating.h",
+      "line": 92,
+      "symbol": "BPKRating.highRatingColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingLayout.h",
+      "line": 28,
+      "symbol": "BPKRatingLayout.BPKRatingLayoutHorizontal",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingLayout.h",
+      "line": 30,
+      "symbol": "BPKRatingLayout.BPKRatingLayoutVertical",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingLayout.h",
+      "line": 32,
+      "symbol": "BPKRatingLayout.BPKRatingLayoutHorizontalPill",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingSize.h",
+      "line": 28,
+      "symbol": "BPKRatingSize.BPKRatingSizeBase",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingSize.h",
+      "line": 30,
+      "symbol": "BPKRatingSize.BPKRatingSizeLarge",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingSize.h",
+      "line": 32,
+      "symbol": "BPKRatingSize.BPKRatingSizeSmall",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Rating/Classes/BPKRatingSize.h",
+      "line": 34,
+      "symbol": "BPKRatingSize.BPKRatingSizeExtraSmall",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 23,
+      "symbol": "BPKSimpleDate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 24,
+      "symbol": "BPKSimpleDate.day",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 25,
+      "symbol": "BPKSimpleDate.month",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 26,
+      "symbol": "BPKSimpleDate.year",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 28,
+      "symbol": "BPKSimpleDate.-initWithYear:month:day:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 38,
+      "symbol": "BPKSimpleDate.-dateForCalendar:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/SimpleDate/Classes/BPKSimpleDate.h",
+      "line": 40,
+      "symbol": "BPKSimpleDate.+simpleDatesFromDates:forCalendar:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 27,
+      "symbol": "BPKSkeleton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 28,
+      "symbol": "BPKSkeleton.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 34,
+      "symbol": "BPKSkeleton.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 40,
+      "symbol": "BPKSkeleton.style",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 53,
+      "symbol": "BPKSkeleton.init(type:size:style:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 66,
+      "symbol": "BPKSkeleton.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 112,
+      "symbol": "BPKSkeleton.startShimmer(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeleton.swift",
+      "line": 127,
+      "symbol": "BPKSkeleton.removeShimmer(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonSize.swift",
+      "line": 22,
+      "symbol": "BPKSkeletonSize",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonSize.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonSize.custom(size:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonSize.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonSize.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonSize.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonSize.large",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonSize.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonSize.small",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonStyle.swift",
+      "line": 22,
+      "symbol": "BPKSkeletonStyle",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonStyle.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonStyle.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonStyle.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonStyle.rounded",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonType.swift",
+      "line": 22,
+      "symbol": "BPKSkeletonType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonType.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonType.bodytext",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonType.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonType.circle",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonType.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonType.headline",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKSkeletonType.swift",
+      "line": 23,
+      "symbol": "BPKSkeletonType.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKTextSkeleton.swift",
+      "line": 22,
+      "symbol": "BPKTextSkeleton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKTextSkeleton.swift",
+      "line": 37,
+      "symbol": "BPKTextSkeleton.init(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKTextSkeleton.swift",
+      "line": 43,
+      "symbol": "BPKTextSkeleton.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Skeleton/Classes/BPKTextSkeleton.swift",
+      "line": 47,
+      "symbol": "BPKTextSkeleton.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Snackbar/Classes/BPKSnackbar.h",
+      "line": 31,
+      "symbol": "BPKSnackbarDuration.BPKSnackbarDurationIndefinite",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Snackbar/Classes/BPKSnackbar.h",
+      "line": 31,
+      "symbol": "BPKSnackbarDuration.BPKSnackbarDurationLong",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Snackbar/Classes/BPKSnackbar.h",
+      "line": 31,
+      "symbol": "BPKSnackbarDuration.BPKSnackbarDurationShort",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Snackbar/Classes/BPKSnackbarButton.h",
+      "line": 47,
+      "symbol": "BPKSnackbarButton.+new",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Snackbar/Classes/BPKSnackbarButton.h",
+      "line": 49,
+      "symbol": "BPKSnackbarButton.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 26,
+      "symbol": "BPKSpinnerSize.BPKSpinnerSizeDefault",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 27,
+      "symbol": "BPKSpinnerSize.BPKSpinnerSizeSmall",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 28,
+      "symbol": "BPKSpinnerSize.BPKSpinnerSizeSm",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 29,
+      "symbol": "BPKSpinnerSize.BPKSpinnerSizeLg",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 30,
+      "symbol": "BPKSpinnerSize.BPKSpinnerSizeXl",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 37,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStylePrimary",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 38,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStyleDark",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 39,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStyleLight",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 40,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStyleSecondary",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 41,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStyleTextPrimary",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 42,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStyleDisabled",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 43,
+      "symbol": "BPKSpinnerStyle.BPKSpinnerStyleOnDarkSurface",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 59,
+      "symbol": "BPKSpinner.primaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Spinner/Classes/BPKSpinner.h",
+      "line": 93,
+      "symbol": "BPKSpinner.-initWithActivityIndicatorStyle:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 24,
+      "symbol": "BPKStarState.BPKStarStateDefault",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 24,
+      "symbol": "BPKStarState.BPKStarStateFull",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 24,
+      "symbol": "BPKStarState.BPKStarStateHalf",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 29,
+      "symbol": "BPKStarSize.BPKStarSizeLarge",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 29,
+      "symbol": "BPKStarSize.BPKStarSizeSmall",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 29,
+      "symbol": "BPKStarSize.BPKStarSizeXLarge",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStar.h",
+      "line": 33,
+      "symbol": "BPKStar",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/StarRating/Classes/BPKStarRating.h",
+      "line": 83,
+      "symbol": "BPKStarRating.-initWithSize:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TappableLinkLabel/Classes/BPKTappableLinkLabel.h",
+      "line": 49,
+      "symbol": "BPKTappableLinkLabel.linkColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TappableLinkLabel/Classes/BPKTappableLinkLabelDelegate.h",
+      "line": 23,
+      "symbol": "BPKTappableLinkLabelDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TappableLinkLabel/Classes/BPKTappableLinkLabelDelegate.h",
+      "line": 33,
+      "symbol": "BPKTappableLinkLabelDelegate.-tappableLabel:didSelectLinkWithURL:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TappableLinkLabel/Classes/BPKTappableLinkLabelDelegate.h",
+      "line": 42,
+      "symbol": "BPKTappableLinkLabelDelegate.-tappableLabel:didSelectLinkWithTransitInformation:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TextField/Classes/BPKTextField.h",
+      "line": 36,
+      "symbol": "BPKTextField.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TextField/Classes/BPKTextField.h",
+      "line": 37,
+      "symbol": "BPKTextField.-initWithFrame:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TextView/Classes/BPKTextView.h",
+      "line": 36,
+      "symbol": "BPKTextView.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/TextView/Classes/BPKTextView.h",
+      "line": 37,
+      "symbol": "BPKTextView.-initWithFrame:textContainer:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKContainerController.h",
+      "line": 41,
+      "symbol": "BPKContainerController.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKContainerController.h",
+      "line": 42,
+      "symbol": "BPKContainerController.-initWithNibName:bundle:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKContainerController.h",
+      "line": 46,
+      "symbol": "BPKContainerController.-createIdenticalContainerControllerForRootController:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKContainerController.h",
+      "line": 48,
+      "symbol": "BPKContainerController.-setContainerView:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKDefaultTheme.h",
+      "line": 26,
+      "symbol": "BPKDefaultTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKDohaTheme.h",
+      "line": 26,
+      "symbol": "BPKDohaTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKHongKongTheme.h",
+      "line": 26,
+      "symbol": "BPKHongKongTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKLondonTheme.h",
+      "line": 26,
+      "symbol": "BPKLondonTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKSpringCleanTheme.h",
+      "line": 26,
+      "symbol": "BPKSpringCleanTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKSpringCleanTheme.h",
+      "line": 28,
+      "symbol": "BPKSpringCleanThemeName",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKTheme.h",
+      "line": 29,
+      "symbol": "BPKTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKTheme.h",
+      "line": 31,
+      "symbol": "BPKTheme.didChangeNotification",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeContainer.h",
+      "line": 29,
+      "symbol": "BPKThemeContainer",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeContainer.h",
+      "line": 31,
+      "symbol": "BPKThemeContainer.themeDefinition",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeContainerController.h",
+      "line": 45,
+      "symbol": "BPKThemeContainerController.-initWithContainerClass:rootViewController:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 27,
+      "symbol": "BPKThemeDefinition.themeContainerClass",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 28,
+      "symbol": "BPKThemeDefinition.themeName",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 30,
+      "symbol": "BPKThemeDefinition.switchPrimaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 31,
+      "symbol": "BPKThemeDefinition.chipPrimaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 32,
+      "symbol": "BPKThemeDefinition.spinnerPrimaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 34,
+      "symbol": "BPKThemeDefinition.buttonLinkContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 35,
+      "symbol": "BPKThemeDefinition.buttonSecondaryContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 36,
+      "symbol": "BPKThemeDefinition.buttonSecondaryBackgroundColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 37,
+      "symbol": "BPKThemeDefinition.buttonSecondaryBorderColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 38,
+      "symbol": "BPKThemeDefinition.buttonDestructiveContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 39,
+      "symbol": "BPKThemeDefinition.buttonDestructiveBackgroundColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 40,
+      "symbol": "BPKThemeDefinition.buttonDestructiveBorderColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 41,
+      "symbol": "BPKThemeDefinition.buttonPrimaryContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 42,
+      "symbol": "BPKThemeDefinition.buttonPrimaryGradientStartColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 43,
+      "symbol": "BPKThemeDefinition.buttonPrimaryGradientEndColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 44,
+      "symbol": "BPKThemeDefinition.buttonFeaturedContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 45,
+      "symbol": "BPKThemeDefinition.buttonFeaturedGradientStartColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 46,
+      "symbol": "BPKThemeDefinition.buttonFeaturedGradientEndColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 48,
+      "symbol": "BPKThemeDefinition.gray50",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 49,
+      "symbol": "BPKThemeDefinition.gray100",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 50,
+      "symbol": "BPKThemeDefinition.gray300",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 51,
+      "symbol": "BPKThemeDefinition.gray500",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 52,
+      "symbol": "BPKThemeDefinition.gray700",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 53,
+      "symbol": "BPKThemeDefinition.gray900",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 55,
+      "symbol": "BPKThemeDefinition.systemRed",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 56,
+      "symbol": "BPKThemeDefinition.systemGreen",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 63,
+      "symbol": "BPKThemeDefinition.primaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 64,
+      "symbol": "BPKThemeDefinition.primaryGradient",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 66,
+      "symbol": "BPKThemeDefinition.linkPrimaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 68,
+      "symbol": "BPKThemeDefinition.progressBarPrimaryColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 70,
+      "symbol": "BPKThemeDefinition.calendarDateSelectedContentColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 71,
+      "symbol": "BPKThemeDefinition.calendarDateSelectedBackgroundColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 73,
+      "symbol": "BPKThemeDefinition.starFilledColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 75,
+      "symbol": "BPKThemeDefinition.horiontalNavigationSelectedColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 77,
+      "symbol": "BPKThemeDefinition.ratingLowColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 78,
+      "symbol": "BPKThemeDefinition.ratingMediumColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/BPKThemeDefinition.h",
+      "line": 79,
+      "symbol": "BPKThemeDefinition.ratingHighColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/UIView+BPKThemeContainer.h",
+      "line": 24,
+      "symbol": "UIView(BPKThemeContainer)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Theme/Classes/UIViewController+BPKThemeContainerController.h",
+      "line": 24,
+      "symbol": "UIViewController(BPKThemeContainerController)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Toast/Classes/BPKToast.h",
+      "line": 24,
+      "symbol": "BPKToastMode",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/backpack-ios/backpack-ios/Backpack/Toast/Classes/BPKToast.h",
+      "line": 24,
+      "symbol": "BPKToastMode",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/backpack-ios/backpack-ios"
+}
